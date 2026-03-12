@@ -1,0 +1,17 @@
+venv/
+backend/venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.fits
+*.csv
+*.cpp
+.env
+*.env
+frontend/node_modules/
+.vscode/
+.DS_Store
+Thumbs.db
